@@ -14,7 +14,6 @@ const growthFeatures = [
 export default function Test() {
   return (
     <>
-    {/* <h1>Pricing Ui Tailwind</h1> */}
     <div className="bg-gray-900">
       <div className="px-6 pt-12 lg:px-8 lg:pt-20">
         <div className="text-center">
